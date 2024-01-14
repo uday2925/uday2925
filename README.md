@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **udaykiran1139@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FZbk6sGG17cuj2kptMJ6YB7zDLUhjWB2/view?usp=sharing](https://drive.google.com/file/d/1FZbk6sGG17cuj2kptMJ6YB7zDLUhjWB2/view?usp=sharing)
 
 <!-- coder image -->
 <img src="github_coder_image.gif" align="right" alt="coderimage"/>
